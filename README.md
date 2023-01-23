@@ -1,24 +1,10 @@
-# README
+# Songs, Songs, Songs!!
+## Back End Code (Ruby on Rails)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version
+To start both back end and front end servers, run this code in your terminal:
 
-* System dependencies
 
-* Configuration
+    foreman start -f Procfile.dev
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
